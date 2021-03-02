@@ -1,0 +1,6 @@
+python==3.5 and above
+neo4j==4.2.1
+Steps:-
+1) install neo4j library through "pip install neo4j"
+2) import library "from neo4j import GraphDatabase"
+3) Write code
